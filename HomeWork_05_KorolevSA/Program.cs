@@ -119,4 +119,4 @@ return max-min;
 }
 
 mas(a);
-Console.Write($"\nРазница между максимальным и минимальным элементов массива: {raz(randomArray):F2}");
+Console.Write($"\n=> {raz(randomArray):F2}");
